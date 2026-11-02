@@ -1,0 +1,16 @@
+*.obj
+*.OBJ
+*.lst
+*.LST
+*.M51
+*.m51
+*.lnp
+*.uvopt
+*.uvoptx
+*.uvgui*
+*.build_log.htm
+firmware/experiment1
+archive/serial_only/experiment1
+*.exe
+!tools/PZ-ISP.exe
+__pycache__/

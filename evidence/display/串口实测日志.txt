@@ -1,0 +1,9 @@
+
+Guess game LCD+LED v2: K3=start, K4=confirm; S1..S10=0..9.
+
+Guess game LCD+LED v2: K3=start, K4=confirm; S1..S10=0..9.
+
+请输入
+0123
+2个数字正确，1个位置正确
+请输入
